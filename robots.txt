@@ -1,0 +1,1514 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>ViajoFeliz.com - Tu lugar para unas vacaciones insuperables!</title>
+<meta name="google-site-verification" content="YNbxH95ClsWm35L02JX9HV94VM8sANS4pu8grGT15R0" /> 
+<meta name="google-site-verification" content="SfSH085KIf1q8I3epmWJudkv3jUDWMFgZcyv3B4-0AA" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K54TJ2L');</script>
+<!-- End Google Tag Manager -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.00"/>
+<script type="text/javascript">
+    window.onload=function(){
+        var ua = navigator.userAgent;
+        if(ua.indexOf("Android")>=0){
+            var androidversion=parseFloat(ua.slice(ua.indexOf("Android")+8)); 
+            if(androidversion<=2.3){
+                document.getElementsByName("viewport")[0].setAttribute("content","width=device-width, initial-scale=1.02");
+            }
+        }
+    };
+</script>
+
+
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta name="keywords" content="viajar, destinos, viajar barato, viajofeliz, viajo feliz, europa, estados unidos, centroamerica, viajes, alquiler de auto" />
+    <meta name="description" content="Viajofeliz.com - Tu lugar para unas vacaciones insuperables · 2902 8456 · 095 103 807">
+  
+
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600' rel='stylesheet' type='text/css'>
+  
+    <link rel="stylesheet" href="web/css/bootstrap.css">
+     
+     
+
+  <script src="https://use.fontawesome.com/73a8ace48c.js"></script>
+
+
+    <link rel="stylesheet" href="web/css/icomoon.css">
+    
+    <link rel="stylesheet" href="web/css/styles.css">
+    
+    <link rel="stylesheet" href="web/css/mystyles.css">
+    
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"
+        ></script>
+
+        <!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '762160970652617');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=762160970652617&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Hotjar Tracking Code for http://www.viajofeliz.com/web/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:921625,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+</head>
+
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K54TJ2L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+   
+    <div class="global-wrap">
+        <header id="main-header">
+            <div class="header-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <a class="logo" href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos">
+                                <img src="web/img/logo.png" style="width:200px;" alt="ViajoFeliz.com" title="ViajoFeliz.com" />
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-md-offset-2">
+                          
+                        </div>
+                        <div class="col-md-4">
+                            <div class="top-user-area clearfix">
+                                <ul class="top-user-area-list list list-horizontal list-border">
+                                    <li class="top-user-area-avatar">
+                                        <a href="web/user-profile.html">
+                                    </li>
+
+                                    <li><a href="tel://+59829028456" style="color:#212121;font-size:20px;"> <img src="web/img/phone.png" style="width:15px;padding-bottom:5px;"> 2902.8456 </a>/ <a href="https://api.whatsapp.com/send?phone=59895103807&text=Hola, te contacto desde la web de ViajoFeliz quisiera realizar una consulta" style="color:#212121;font-size:20px;"><img src="web/img/wsap.png" style="width:15px;padding-bottom:5px;"> 095.103.807
+                                    </a>
+                                    
+                                    </li>
+                                    <br><span style="font-size:16px;padding-left:20px;"><a href="web/index.php?seccion=contactenos">Contactenos</a>  
+                                        <a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#newsletter" style="margin-left:15px;">Newsletter</a></span>
+                                     
+                                    
+                                   
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+                        <div class="container">
+
+                                
+                
+                <div class="nav">
+                    <ul class="slimmenu" id="slimmenu" style="font-size:5px;width:110%;">
+                        
+                        <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-0" data-toggle="tab">Paquetes</a>
+                           
+                        </li>
+                        <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-1" data-toggle="tab">Hoteles</a>
+                            
+                        </li>
+                        <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-2" data-toggle="tab">Vuelos</a>
+                            
+                        </li>
+                        <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-4" data-toggle="tab">Autos</a>
+                            
+                        </li>
+
+                        <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-16" data-toggle="tab">Circuitos</a>
+                            
+                        </li>
+
+                        <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-5" data-toggle="tab">Actividades</a>
+                            
+                        </li>
+                        <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-15" data-toggle="tab">Traslados</a>
+                            
+                        </li>
+                        <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-6" data-toggle="tab">Cruceros</a>
+                            
+                        </li>
+                   
+                        <li><a href="web/index.php?seccion=armatuviaje#armarviaje">Arma tu viaje</a>
+                            
+                        </li>
+                    </ul>
+                </div>
+                
+
+            </div>
+
+                    </header>
+  
+
+        <div class="bg-holder">
+            <div class="bg-mask-darken"></div>
+            <div class="bg-parallax"></div>
+            <!-- START GRIDROTATOR -->
+            
+            <!-- END GRIDROTATOR -->
+                       
+
+
+            <div class="top-area show-onload">
+            <div class="bg-holder full">
+                <div class="bg-front full-height bg-front-mob-rel">
+                    <div class="container full-height" style="width:100%;">
+                        <div class="rel full-height" >
+                            <div class="tagline visible-lg" id="tagline"><span>Es tiempo de</span>
+                                <ul>
+                                    <li class="active">viajar feliz</li>
+                                    <li>vivir</li>
+                                    <li>te diviertas</li>
+                                    <li>relajarse</li>
+                                    <li>reencontrarse</li>
+                                    <li>ir</li>
+                                    <li>explorar</li>
+                                    <li>nuevos amigos</li>
+                                    <li>descubrir</li>
+                                     <li>so&ntilde;ar</li>
+                                     <li>celebrar</li>
+                                        <li>compartir</li>
+
+
+                                </ul>
+                            </div>
+                            <div class="search-tabs search-tabs-bg search-tabs-bottom mb50">
+                                <div class="tabbable">
+                                    <ul class="nav nav-tabs" id="myTab">
+                                       <li class="active"><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-0" data-toggle="tab"><i class="fa fa-suitcase"> </i><span >Paquetes</span></a>
+                                </li>
+                                <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-1" data-toggle="tab"><i class="fa fa-h-square"></i> <span >Hoteles</span></a>
+                                </li>
+                                <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-2" data-toggle="tab"><i class="fa fa-plane"></i> <span >Vuelos</span></a>
+                                </li>
+
+                                <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-4" data-toggle="tab"><i class="fa fa-car"></i> <span >Autos</span></a>
+                                </li>
+                                <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-5" data-toggle="tab"><i class="fa fa-child"></i> <span >Actividades</span></a>
+                                </li>
+
+                                  <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-15" data-toggle="tab"><i class="fa fa-bus"></i> <span >Traslados</span></a>
+                                </li>
+
+                                 <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-16" data-toggle="tab"><i class="fa fa-map"></i> <span >Circuitos</span></a>
+                                </li>
+
+                                <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-6" data-toggle="tab"><i class="fa fa-ship"></i> <span >Cruceros</span></a>
+                                </li>
+
+                                <li><a href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#tab-7" data-toggle="tab"><i class="fa fa-medkit"></i> <span >Seguro M&eacute;dico</span></a>
+                                </li>
+                                    </ul>
+                                    <div class="tab-content">
+                                        
+                                     <div class="tab-pane fade in active" id="tab-0">
+                                    <h2>A d&oacute;nde quer&eacute;s viajar?</h2>
+                                    <form method="get" action="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="form-group form-group-lg form-group-icon-left">
+                                                    <label>Encontra muy facil la mejor opcion para tu viaje al mejor precio!</label>
+                                                    <input name="pqt" class="form-control" placeholder="Ejemplo : Caribe, Playa, Verano" type="text" />
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+                                        <button class="btn btn-primary btn-lg" type="submit">Buscar</button>
+                                    </form>
+                                </div>
+
+
+                                        <div class="tab-pane fade" id="tab-1">
+                                           <h2 style="font-size:15px;">Hoteles</h2>
+                                           
+
+                                          <iframe frameborder="0" src="web/includes/booking.html" scrolling="auto" style="width: 100%; height: 370px; overflow: auto;"></iframe>
+                                                
+                                        </div>
+
+
+
+
+                                         <div class="tab-pane fade" id="tab-2">
+                                   
+                                       
+                                            <h2 style="font-size:15px;">Vuelos</h2>
+                                        <iframe frameborder="no"  name="mkte_air_motor" src="http://viajofeliz.wemkteyou.com.ar/index.php?cloud=1" scrolling="auto" style="width: 100%; height: 370px; overflow: hidden;"></iframe>
+
+
+                                            
+                                           
+
+
+
+                                       
+                                </div>
+                                        
+                                        <div class="tab-pane fade" id="tab-3">
+                                    <h2>Find Your Perfect Home</h2>
+                                    <form>
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="form-group form-group-lg form-group-icon-left"><i class="fa fa-map-marker input-icon"></i>
+                                                    <label>Where are you going?</label>
+                                                    <input class="typeahead form-control" placeholder="City, Airport, Point of Interest or U.S. Zip Code" type="text" />
+                                                </div>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <div class="input-daterange" data-date-format="M d, D">
+                                                    <div class="row">
+                                                        <div class="col-md-3">
+                                                            <div class="form-group form-group-lg form-group-icon-left"><i class="fa fa-calendar input-icon input-icon-highlight"></i>
+                                                                <label>Check-in</label>
+                                                                <input class="form-control" name="start" type="text" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-3">
+                                                            <div class="form-group form-group-lg form-group-icon-left"><i class="fa fa-calendar input-icon input-icon-highlight"></i>
+                                                                <label>Check-out</label>
+                                                                <input class="form-control" name="end" type="text" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-3">
+                                                            <div class="form-group form-group-lg form-group-select-plus">
+                                                                <label>Rooms</label>
+                                                                <div class="btn-group btn-group-select-num" data-toggle="buttons">
+                                                                    <label class="btn btn-primary active">
+                                                                        <input type="radio" name="options" />1</label>
+                                                                    <label class="btn btn-primary">
+                                                                        <input type="radio" name="options" />2</label>
+                                                                    <label class="btn btn-primary">
+                                                                        <input type="radio" name="options" />3</label>
+                                                                    <label class="btn btn-primary">
+                                                                        <input type="radio" name="options" />3+</label>
+                                                                </div>
+                                                                <select class="form-control hidden">
+                                                                    <option>1</option>
+                                                                    <option>2</option>
+                                                                    <option>3</option>
+                                                                    <option selected="selected">4</option>
+                                                                    <option>5</option>
+                                                                    <option>6</option>
+                                                                    <option>7</option>
+                                                                    <option>8</option>
+                                                                    <option>9</option>
+                                                                    <option>10</option>
+                                                                    <option>11</option>
+                                                                    <option>12</option>
+                                                                    <option>13</option>
+                                                                    <option>14</option>
+                                                                </select>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-3">
+                                                            <div class="form-group form-group-lg form-group-select-plus">
+                                                                <label>Guests</label>
+                                                                <div class="btn-group btn-group-select-num" data-toggle="buttons">
+                                                                    <label class="btn btn-primary active">
+                                                                        <input type="radio" name="options" />1</label>
+                                                                    <label class="btn btn-primary">
+                                                                        <input type="radio" name="options" />2</label>
+                                                                    <label class="btn btn-primary">
+                                                                        <input type="radio" name="options" />3</label>
+                                                                    <label class="btn btn-primary">
+                                                                        <input type="radio" name="options" />3+</label>
+                                                                </div>
+                                                                <select class="form-control hidden">
+                                                                    <option>1</option>
+                                                                    <option>2</option>
+                                                                    <option>3</option>
+                                                                    <option selected="selected">4</option>
+                                                                    <option>5</option>
+                                                                    <option>6</option>
+                                                                    <option>7</option>
+                                                                    <option>8</option>
+                                                                    <option>9</option>
+                                                                    <option>10</option>
+                                                                    <option>11</option>
+                                                                    <option>12</option>
+                                                                    <option>13</option>
+                                                                    <option>14</option>
+                                                                </select>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <button class="btn btn-primary btn-lg" type="submit">Search for Vacation Rentals</button>
+                                    </form>
+                                </div>
+
+                                        <div class="tab-pane fade" id="tab-4">
+                                    <h2>Encontra un alquiler de auto en todo el mundo!</h2>
+                                    
+                                    <iframe src="http://integrations.rentalcars.com/partners/integrations/stand-alone-app/?affiliateCode=viajofeliz&amp;preflang=es&amp;css=false&amp;fts=true" height="320px" width="100%" frameborder="0" scrolling="no"></iframe>
+                                    </div>
+                                <div class="tab-pane fade" id="tab-5">
+                                    <h2></h2>
+                                    <h2 style="font-size:15px;">Actividades</h2>
+                                     <iframe frameborder="0" src="web/includes/actividades.html" width="100%" height="320" scrolling="no" style="width:100%;"></iframe>
+
+                                </div>
+
+                                <div class="tab-pane fade" id="tab-15">
+                                   
+                                    <h2 style="font-size:15px;">Traslados</h2>
+                                     <iframe frameborder="0" src="web/includes/traslados.html" width="100%" height="470" scrolling="no" style="width:100%;"></iframe>
+
+                                </div>
+
+                                 <div class="tab-pane fade" id="tab-16">
+                                    <h2 style="font-size:15px;">Circuitos</h2>
+                                    
+                                     <iframe frameborder="0" src="web/includes/circuitos.html" width="100%" height="380" scrolling="no" style="width:100%;"></iframe>
+
+                                </div>
+
+
+                                <div class="tab-pane fade" id="tab-6">
+                                    <h2>Encontra el Crucero de tus sue&ntilde;os</h2>
+                                    <form method="post" action="http://www.viajofeliz.com/web/index.php?seccion=rescruceros">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="form-group form-group-lg form-group-icon-left"><i class="fa fa-map-marker input-icon"></i>
+                                                    <label>A d&oacute;nde te gustar&iacute;a ir?</label>
+                                                    <input class="form-control" placeholder="" name="crucero" type="text" />
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="input-daterange" data-date-format="M d, D">
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <button class="btn btn-primary btn-lg" type="submit">Buscar Crucero</button>
+                                    </form>
+                                </div>
+
+                                <div class="tab-pane fade" id="tab-7">
+                                    <h2>Seguro m&eacute;dico</h2>
+                                    <form method="post" action="http://www.viajofeliz.com/web/index.php?seccion=resseguros#detalleseguro">
+
+                                    <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="form-group form-group-lg form-group-icon-left">
+                                                    <label>Destino</label>
+                                                    <input class="typeahead form-control" style="width:50%;" name="destino" placeholder="Ej: Miami" type="text" />
+                                                     
+                                                   
+                                                           
+                                                               <img src="web/img/logocoris.png" style="width:150px;">
+                                                
+                                                </div>
+                                            </div>
+                                            <div class="col-md-8">
+                                                    <div class="row">
+                                                        <div class="col-md-6">
+                                                            <div class="form-group form-group-lg form-group-icon-left">
+                                                                <label>Desde</label>
+                                                                <input type="date" class="form-control" name="desde"/>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="form-group form-group-lg form-group-icon-left">
+                                                                <label>Hasta</label>
+                                                                <input type="date" class="form-control" name="hasta" />
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </div>
+
+                                           
+
+                                            <div class="col-md-4">
+                                                <div class="input-daterange" data-date-format="M d, D">
+                                                    <div class="row">
+                                                        
+                                                        <div class="col-md-12">
+                                                            <div class="form-group form-group-lg form-group-icon-left">
+                                                                <label>Cantidad de pasajeros</label>
+                                                                <div class="form-group form-group-lg form-group-select-plus">
+                                                                   
+                                                                   
+                                                                    <select name="cantidadpaxs" class="form-control">
+                                                                        <option selected="selected" name="1">1</option>
+                                                                        <option name="2">2</option>
+                                                                        <option name="3">3</option>
+                                                                        <option name="4">4</option>
+                                                                        <option name="5">5</option>
+                                                                        <option name="6">6</option>
+                                                                        <option name="7">7</option>
+                                                                        <option name="8">8</option>
+                                                                        <option name="9">9</option>
+                                                                        <option name="10">10</option>
+                                                                        <option name="11">11</option>
+                                                                        <option name="12">12</option>
+                                                                        <option name="13">13</option>
+                                                                        <option name="14">14</option>
+                                                                    </select>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                       
+                                        <button class="btn btn-primary btn-lg" type="submit">Cotizar ahora</button>
+                                    </form>
+                                </div>
+
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+                <div class="owl-carousel owl-slider owl-carousel-area visible-lg" id="owl-carousel-slider" data-nav="false">
+                    <div class="bg-holder full">
+                        <div class="bg-mask"></div>
+                        <div class="bg-img" style="background-image:url(web/img/1.jpg);"></div>
+                    </div>
+                    <div class="bg-holder full">
+                        <div class="bg-mask"></div>
+                        <div class="bg-img" style="background-image:url(web/img/2.jpg);"></div>
+                    </div>
+                    <div class="bg-holder full">
+                        <div class="bg-mask"></div>
+                        <div class="bg-img" style="background-image:url(web/img/3.jpg);"></div>
+                    </div>
+                    <div class="bg-holder full">
+                        <div class="bg-mask"></div>
+                        <div class="bg-img" style="background-image:url(web/img/4.jpg);"></div>
+                    </div>
+                    
+                    
+                </div>
+               
+        </div>
+
+
+
+            
+
+
+
+
+
+        </div>
+
+         
+
+
+
+           
+
+                           
+
+
+                    
+
+
+ </div>
+        
+
+      
+             <div class="bg-color text-white">
+            <div class="container">
+                <div class="gap"></div>
+                <div class="row row-wrap" data-gutter="120">
+                    <div class="col-md-3">
+                        <div class="thumb">
+                            <header class="thumb-header"><i class="fa fa-thumbs-o-up box-icon-border round box-icon-white box-icon-big"></i>
+                            </header>
+                            <div class="thumb-caption">
+                                <h4 class="thumb-title">La primer agencia Online de Uruguay</h4>
+                                <p class="thumb-desc">La primera agencia Online con respaldo Offline del Uruguay.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="thumb">
+                            <header class="thumb-header"><i class="fa fa-quote-right box-icon-border round box-icon-white box-icon-big"></i>
+                            </header>
+                            <div class="thumb-caption">
+                                <h4 class="thumb-title">Que nadie te lo cuente</h4>
+                                <p class="thumb-desc">De una punta a la otra, mas de 2000 destinos esperan por vos.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="thumb">
+                            <header class="thumb-header"><i class="fa fa-money box-icon-border round box-icon-white box-icon-big"></i>
+                            </header>
+                            <div class="thumb-caption">
+                                <h4 class="thumb-title">Pagalo como quieras!</h4>
+                                <p class="thumb-desc">Consulta todas las opciones disponibles para financiar tu viaje.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="thumb">
+                            <header class="thumb-header"><i class="fa fa-dollar box-icon-border round box-icon-white box-icon-big"></i>
+                            </header>
+                            <div class="thumb-caption">
+                                <h4 class="thumb-title">Save Money!</h4>
+                                <p class="thumb-desc">Utiliza nuestro buscador con fechas flexibles y ahorr&aacute; dinero.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="gap gap-small"></div>
+            </div>
+        </div>
+        
+
+
+        <!-- ////// !-->
+
+        <div class="container">
+        </div>
+        
+
+
+
+
+
+
+        <div class="container">
+            <div class="gap"></div>
+            <h2 class="text-center mb20" style="font-size: 20px;">No te duermas, estas ofertas vuelan! <img src="http://www.london-luton.co.uk/Uploads/MediaLibrary/LondonLuton/Card-Images/Is-my-flight-on-time.gif?ext=.gif" style="width:150px;"></h2>
+            <div class="row row-wrap">
+
+
+                               <div class="col-md-3">
+                    <div class="thumb">
+                        <header class="thumb-header">
+                            <a class="hover-img curved" href="web/index.php?seccion=resultadoaereos&amp;ciudad=Madrid,&#32;España&#32;[MAD]&amp;fechainicio=2018-11-08&amp;fecharegreso=2018-11-21" target="_new">
+                                <img src="vfadmin/includes/fotosofertas/1528235356madrid&#32;2.jpg" /><i class="fa fa-plus box-icon-white box-icon-border hover-icon-top-right round"></i>
+                            </a>
+                        </header>
+                        <div class="thumb-caption">
+                            <h4 class="thumb-title">Vuelo a Madrid! ...</h4>
+                            <p class="thumb-desc">Europa de oferta...</p>
+                            <p class="mb0 text-darken"><span class="text-lg lh1em text-color">u&dollar;s872</span><small> por persona</small>
+                        </div>
+                    </div>
+                </div>
+                                  <div class="col-md-3">
+                    <div class="thumb">
+                        <header class="thumb-header">
+                            <a class="hover-img curved" href="web/index.php?seccion=resultadoaereos&amp;ciudad=Salvador,&#32;Brazil&#32;[SSA]&amp;fechainicio=2018-07-19&amp;fecharegreso=2018-07-26" target="_new">
+                                <img src="vfadmin/includes/fotosofertas/1530556321salvador&#32;2.jpg" /><i class="fa fa-plus box-icon-white box-icon-border hover-icon-top-right round"></i>
+                            </a>
+                        </header>
+                        <div class="thumb-caption">
+                            <h4 class="thumb-title">Vuelos a Salvador de Bahia! ...</h4>
+                            <p class="thumb-desc">Brasil al mejor precio...</p>
+                            <p class="mb0 text-darken"><span class="text-lg lh1em text-color">u&dollar;s321</span><small> por persona</small>
+                        </div>
+                    </div>
+                </div>
+                                  <div class="col-md-3">
+                    <div class="thumb">
+                        <header class="thumb-header">
+                            <a class="hover-img curved" href="web/index.php?seccion=resultadoaereos&amp;ciudad=San&#32;Carlos&#32;De&#32;Bariloche,&#32;Argentina&#32;[BRC]&amp;fechainicio=2018-08-09&amp;fecharegreso=2018-08-16" target="_new">
+                                <img src="vfadmin/includes/fotosofertas/1528235667barilche&#32;low&#32;cost.jpg" /><i class="fa fa-plus box-icon-white box-icon-border hover-icon-top-right round"></i>
+                            </a>
+                        </header>
+                        <div class="thumb-caption">
+                            <h4 class="thumb-title">Bariloche...</h4>
+                            <p class="thumb-desc">Conocé la nieve...</p>
+                            <p class="mb0 text-darken"><span class="text-lg lh1em text-color">u&dollar;s394</span><small> por persona</small>
+                        </div>
+                    </div>
+                </div>
+                                  <div class="col-md-3">
+                    <div class="thumb">
+                        <header class="thumb-header">
+                            <a class="hover-img curved" href="web/index.php?seccion=resultadoaereos&amp;ciudad=Rio&#32;De&#32;Janeiro,&#32;Brazil&#32;[RIO]&amp;fechainicio=2018-08-09&amp;fecharegreso=2018-08-16" target="_new">
+                                <img src="vfadmin/includes/fotosofertas/1529416654rio&#32;de&#32;janeiro.jpg" /><i class="fa fa-plus box-icon-white box-icon-border hover-icon-top-right round"></i>
+                            </a>
+                        </header>
+                        <div class="thumb-caption">
+                            <h4 class="thumb-title">Vuelos a Rio de Janeiro...</h4>
+                            <p class="thumb-desc">Brasil todo el año...</p>
+                            <p class="mb0 text-darken"><span class="text-lg lh1em text-color">u&dollar;s258</span><small> por persona</small>
+                        </div>
+                    </div>
+                </div>
+                    
+
+
+        
+
+
+                
+
+
+
+
+
+  </div>
+            <div class="gap gap-small"></div>
+
+            <div class="row">
+            <div class="col-md-12" style="text-align:center;margin-bottom:30px;">
+                <a href="web/index.php?seccion=paquetes" class="btn btn-primary" style="padding:10px;width:340px;">mira todos los paquetes que tenemos para vos</a>
+         </div>
+         </div>
+
+
+
+
+
+
+<!-- CRUCEROS -->
+
+            <h2 class="text-center mb20">Cruceros</h2>
+
+            <div class="row row-wrap">
+                
+
+
+                      <div class="col-md-4">
+                    <div class="thumb">
+                        <header class="thumb-header">
+                            <a class="hover-img" href="web/index.php?seccion=detallepaquete&amp;idpaquete=1275#detalle">
+                                <img src="vfadmin/includes/fotos/1528394044crucero&#32;carnival.jpg" />
+                                <h5 class="hover-title-center">MAS INFORMACION</h5>
+                            </a>
+                        </header>
+                        <div class="thumb-caption">
+                            <ul class="icon-group text-tiny text-color">
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                            </ul>
+                            <h5 class="thumb-title"><a class="text-darken" href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#">Carnival Conquest 8 noches desde Fort L...</a></h5>
+                            <p class="mb0"><small><i class="fa fa-map-marker"></i> Carnival Conquest 8 noches desde Fort La...</small>
+                            </p>
+                            <p class="mb0 text-darken"><span class="text-lg lh1em text-color">u&dollar;s296</span><small> por persona</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                                 <div class="col-md-4">
+                    <div class="thumb">
+                        <header class="thumb-header">
+                            <a class="hover-img" href="web/index.php?seccion=detallepaquete&amp;idpaquete=1269#detalle">
+                                <img src="vfadmin/includes/fotos/1528386838crucero&#32;msc&#32;desde&#32;Cuba.jpg" />
+                                <h5 class="hover-title-center">MAS INFORMACION</h5>
+                            </a>
+                        </header>
+                        <div class="thumb-caption">
+                            <ul class="icon-group text-tiny text-color">
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                            </ul>
+                            <h5 class="thumb-title"><a class="text-darken" href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#">Escapada a Cuba con Crucero MSC...</a></h5>
+                            <p class="mb0"><small><i class="fa fa-map-marker"></i> Escapada a Cuba con Crucero MSC...</small>
+                            </p>
+                            <p class="mb0 text-darken"><span class="text-lg lh1em text-color">u&dollar;s956</span><small> por persona</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                                 <div class="col-md-4">
+                    <div class="thumb">
+                        <header class="thumb-header">
+                            <a class="hover-img" href="web/index.php?seccion=detallepaquete&amp;idpaquete=1100#detalle">
+                                <img src="vfadmin/includes/fotos/1521493319Jordania,&#32;Israel&#32;y&#32;Egipto&#32;con&#32;Crucero&#32;4&#32;Días.jpeg" />
+                                <h5 class="hover-title-center">MAS INFORMACION</h5>
+                            </a>
+                        </header>
+                        <div class="thumb-caption">
+                            <ul class="icon-group text-tiny text-color">
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                            </ul>
+                            <h5 class="thumb-title"><a class="text-darken" href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#">Jordania, Israel y Egipto con Crucero 4...</a></h5>
+                            <p class="mb0"><small><i class="fa fa-map-marker"></i> Jordania, Israel y Egipto con Crucero 4 ...</small>
+                            </p>
+                            <p class="mb0 text-darken"><span class="text-lg lh1em text-color">u&dollar;s3312</span><small> por persona</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                                 <div class="col-md-4">
+                    <div class="thumb">
+                        <header class="thumb-header">
+                            <a class="hover-img" href="web/index.php?seccion=detallepaquete&amp;idpaquete=1066#detalle">
+                                <img src="vfadmin/includes/fotos/1521208277costa&#32;victoria.jpg" />
+                                <h5 class="hover-title-center">MAS INFORMACION</h5>
+                            </a>
+                        </header>
+                        <div class="thumb-caption">
+                            <ul class="icon-group text-tiny text-color">
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                            </ul>
+                            <h5 class="thumb-title"><a class="text-darken" href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#">Barcelona con crucero Costa Victoria de...</a></h5>
+                            <p class="mb0"><small><i class="fa fa-map-marker"></i> Barcelona con crucero Costa Victoria des...</small>
+                            </p>
+                            <p class="mb0 text-darken"><span class="text-lg lh1em text-color">u&dollar;s2106</span><small> por persona</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                                 <div class="col-md-4">
+                    <div class="thumb">
+                        <header class="thumb-header">
+                            <a class="hover-img" href="web/index.php?seccion=detallepaquete&amp;idpaquete=1068#detalle">
+                                <img src="vfadmin/includes/fotos/1521208990Costa&#32;luminosa.jpg" />
+                                <h5 class="hover-title-center">MAS INFORMACION</h5>
+                            </a>
+                        </header>
+                        <div class="thumb-caption">
+                            <ul class="icon-group text-tiny text-color">
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                            </ul>
+                            <h5 class="thumb-title"><a class="text-darken" href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#">Venecia con crucero Costa Luminosa...</a></h5>
+                            <p class="mb0"><small><i class="fa fa-map-marker"></i> Venecia con crucero Costa Luminosa...</small>
+                            </p>
+                            <p class="mb0 text-darken"><span class="text-lg lh1em text-color">u&dollar;s1996</span><small> por persona</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                                 <div class="col-md-4">
+                    <div class="thumb">
+                        <header class="thumb-header">
+                            <a class="hover-img" href="web/index.php?seccion=detallepaquete&amp;idpaquete=1096#detalle">
+                                <img src="vfadmin/includes/fotos/1521491093Grecia&#32;Completa&#32;con&#32;Crucero.jpg" />
+                                <h5 class="hover-title-center">MAS INFORMACION</h5>
+                            </a>
+                        </header>
+                        <div class="thumb-caption">
+                            <ul class="icon-group text-tiny text-color">
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                                <li><i class="fa fa-star"></i>
+                                </li>
+                            </ul>
+                            <h5 class="thumb-title"><a class="text-darken" href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#">Grecia Completa con Crucero...</a></h5>
+                            <p class="mb0"><small><i class="fa fa-map-marker"></i> Grecia Completa con Crucero...</small>
+                            </p>
+                            <p class="mb0 text-darken"><span class="text-lg lh1em text-color">u&dollar;s1992</span><small> por persona</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                         
+
+        </div>
+        
+<!-- TERMINA SECCION CRUCEROS !-->
+
+
+
+
+
+            <div class="gap gap-small"></div>
+            <h2 class="text-center mb20">Mas destinos esperan por vos</h2><br>
+
+<div class="row">
+
+
+
+
+
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=114#detalle"><img src="vfadmin/includes/fotos/1482438735hpanamaciudad2.jpg" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=114#detalle"> <h5 class="booking-item-title">Plan Panamá</h5></a>
+                                        
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=114#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s176</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=616#detalle"><img src="vfadmin/includes/fotos/1497044492recife.jpg" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=616#detalle"> <h5 class="booking-item-title">Muro Alto con Gol</h5></a>
+                                        
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=616#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s1279</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1038#detalle"><img src="vfadmin/includes/fotos/1520961444Cayo&#32;Santa&#32;Maria&#32;&amp;&#32;Varadero.jpg" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1038#detalle"> <h5 class="booking-item-title">Cayo Santa Maria & Varadero - Copa Vacations </h5></a>
+                                        
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1038#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s1225</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1082#detalle"><img src="vfadmin/includes/fotos/1521233702wpcot.jpg" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1082#detalle"> <h5 class="booking-item-title">Orlando Fly & Drive - Avianca </h5></a>
+                                        
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1082#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s1222</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=438#detalle"><img src="vfadmin/includes/fotos/1493840248londres&#32;2.jpg" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=438#detalle"> <h5 class="booking-item-title">Lo Mejor de Inglaterra y Escocia</h5></a>
+                                        
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=438#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s1118</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1198#detalle"><img src="vfadmin/includes/fotos/1523882703nuevazelanda1.jpg" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1198#detalle"> <h5 class="booking-item-title">Oceanía Extrema - Salida grupal</h5></a>
+                                        
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1198#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s3395</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+
+               
+
+
+
+
+
+
+
+               
+           
+
+            </div>
+
+
+
+            <div class="gap gap-small"></div>
+            <h2 class="text-center mb20">Que sea Show!</h2><br>
+
+
+            <div class="row">
+
+
+
+
+
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1013#detalle"><img src="vfadmin/includes/fotos/1520535590andre&#32;rieu.jpg" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1013#detalle"><h5 class="booking-item-title">Andre Rieu</h5></a>
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1013#detalle"> <small>Andre Rieu...</small></a>
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1013#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s239</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1227#detalle"><img src="vfadmin/includes/fotos/1525986064shakira.png" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1227#detalle"><h5 class="booking-item-title">Shakira en Buenos Aires</h5></a>
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1227#detalle"> <small>Shakira en Buenos Aires...</small></a>
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1227#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s319</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1204#detalle"><img src="vfadmin/includes/fotos/1523903353dinsey&#32;on&#32;ice.jpg" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1204#detalle"><h5 class="booking-item-title">Disney On Ice 2018</h5></a>
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1204#detalle"> <small>Disney On Ice 2018...</small></a>
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1204#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s215</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1200#detalle"><img src="vfadmin/includes/fotos/1523902049got.png" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1200#detalle"><h5 class="booking-item-title">Got7</h5></a>
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1200#detalle"> <small>Got7...</small></a>
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1200#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s439</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1018#detalle"><img src="vfadmin/includes/fotos/1520543851niall&#32;horan.jpg" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1018#detalle"><h5 class="booking-item-title">Niall Horan</h5></a>
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1018#detalle"> <small>Niall Horan...</small></a>
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1018#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s495</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+                
+
+                         <div class="col-md-4">
+
+                   <ul class="booking-list">
+                        <li>
+                            <div class="booking-item booking-item-small">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                       <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1202#detalle"><img src="vfadmin/includes/fotos/1523902832Sleeping.jpg" border="0" /></a>
+                                    </div>
+                                    <div class="col-xs-5">
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1202#detalle"><h5 class="booking-item-title">Sleeping With Sirens</h5></a>
+                                        <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1202#detalle"> <small>Sleeping With Sirens...</small></a>
+                                    </div>
+                                    <div class="col-xs-3"><span class="booking-item-price-from">desde</span> <a href="web/index.php?seccion=detallepaquete&amp;idpaquete=1202#detalle"><span class="booking-item-price" style="font-size:15px;">u&dollar;s349</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      
+                    </ul>
+
+
+
+                </div>
+
+
+
+
+
+                                   
+
+               
+
+         <div class="row">
+            <div class="col-md-12" style="text-align:center;margin-bottom:30px;">
+                <a href="web/index.php?seccion=espectaculos#container" class="btn btn-primary" style="padding:10px;width:340px;">mira todos los shows que te estan esperando</a>
+         </div>
+         </div>
+
+
+</div>
+</div>
+      
+        <footer id="main-footer">
+            <div class="container">
+                <div class="row row-wrap">
+                    <div class="col-md-3">
+                        <a class="logo" href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos">
+                            <img src="web/img/lw.png" style="width:200px;" />
+                        </a>
+                        <p class="mb20">MT. 128</p>
+
+                        18 de Julio 921 local 15 esq. Rio Branco 
+<p class="mb20">2902 8456 / 2904 7445 
+Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
+                        <ul class="list list-horizontal list-space">
+                            <li>
+                                <a class="fa fa-facebook box-icon-normal round animate-icon-bottom-to-top" href="https://www.facebook.com/viajofeliz/" target="_new"></a>
+                            </li>
+                            <li>
+                                <a class="fa fa-instagram box-icon-normal round animate-icon-bottom-to-top" href="https://www.instagram.com/viajofeliz/" target="_new"></a>
+                            </li>
+
+                            <li>
+                                <a class="fa fa-whatsapp box-icon-normal round animate-icon-bottom-to-top" href="articleId__6a869c13-e981-4ead-90ce-e3d8055edabc/14045/Ofertas-en-Aereos#" title="Contactanos por Whatsapp al 095.103.807"></a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+
+                    <div class="col-md-3" id="newsletter">
+                        <h4 style="color:#ed8323;">Newsletter</h4>
+                        <form method="post" action="http://www.viajofeliz.com/web/index.php?seccion=regnewsletter">
+                            <label>Ingresa tu e-mail y recibe las mejores ofertas siempre!</label>
+                            <input type="text" name="newsletter" class="form-control">
+                           
+                            <input type="submit" class="btn btn-primary" value="Suscribirme">
+                        </form>
+                    </div>
+                    <div class="col-md-2">
+                    <h4>&nbsp;</h4>
+                        <ul class="list list-footer" style="font-size: 14px;">
+                            <li><a href="web/index.php?seccion=quienessomos">Quienes Somos</a>
+                            </li>
+                             <li><a href="web/index.php?seccion=nuestroequipo#equipo">Nuestro Equipo</a>
+                            </li>
+                            <li><a href="web/index.php?seccion=sugerencias#sugerencia">Sugerencias y Quejas</a>
+                            </li>
+                            <li><a href="web/index.php?seccion=blog">Blog</a>
+                            </li>
+                          
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <h4 style="color:#ed8323;"><a href="web/index.php?seccion=contactenos" style="color:#ed8323;">Contactenos</a></h4>
+                       <h5><img src="web/img/wphone.png" style="width:15px;padding-bottom:5px;">2902.8456 / <img src="web/img/wwsap.png" style="width:15px;padding-bottom:5px;"> 095.103.807</h4>
+                        <h5><a href="web/index.php?seccion=contactenos">info@viajofeliz.com</a></h4>
+                        <img src="web/img/qr.jpg" style="width:150px;">
+                    </div>
+
+                </div>
+            </div>
+        </footer>
+
+
+        <script src="web/js/jquery.js"></script>
+        <script src="web/js/bootstrap.js"></script>
+        <script src="web/js/slimmenu.js"></script>
+        <script src="web/js/bootstrap-datepicker.js"></script>
+        <script src="web/js/bootstrap-timepicker.js"></script>
+        <script src="web/js/nicescroll.js"></script>
+        <script src="web/js/dropit.js"></script>
+        <script src="web/js/ionrangeslider.js"></script>
+        <script src="web/js/icheck.js"></script>
+        <script src="web/js/fotorama.js"></script>
+        <script src="web/js/typeahead.js"></script>
+        <script src="web/js/card-payment.js"></script>
+        <script src="web/js/magnific.js"></script>
+        <script src="web/js/owl-carousel.js"></script>
+        <script src="web/js/fitvids.js"></script>
+        <script src="web/js/tweet.js"></script>
+        <script src="web/js/countdown.js"></script>
+        <script src="web/js/gridrotator.js"></script>
+        <script src="web/js/custom.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyDQv2E0-B2QkMTQ-hw4dXmcW-11ELiAe24"></script>
+
+
+         <script type="text/javascript">
+
+
+
+
+
+
+   // $(window).scroll(function ()
+    //{
+     // if($(document).height() <= $(window).scrollTop() + $(window).height())
+      //{
+      //loadmore();  
+      //}
+    //});
+
+    function loadmore()
+    {
+      var val = document.getElementById("row_no").value;
+      $.ajax({
+      type: 'post',
+      url: 'fetch_pages.php',
+      data: {
+       getresult:val
+      },
+      success: function (response) {
+      var content = document.getElementById("container");
+      content.innerHTML = content.innerHTML+response;
+
+      // We increase the value by 10 because we limit the results by 10
+      document.getElementById("row_no").value = Number(val)+10;
+           
+
+
+
+      }
+
+
+      });
+
+
+    }
+
+
+</script>
+
+    </div>
+<!--Start of Zopim Live Chat Script-->
+        <script type="text/javascript">
+        window.$zopim||(function(d,s){
+            var z=$zopim=function(c){z._.push(c)},$=z.s=
+            d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+            _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+            $.src='//v2.zopim.com/?2RRXPpVPQWkT6BHhwKtKkr0MJEtRRMW0';z.t=+new Date;$.
+            type='text/javascript';e.parentNode.insertBefore($,e)
+        })(document,'script');
+        </script>
+        <!--End of Zopim Live Chat Script-->
+
+
+
+<!-- Google Code para etiquetas de remarketing -->
+
+<script type="text/javascript">
+var google_tag_params = {
+travel_destid: 'REPLACE_WITH_VALUE',
+travel_originid: 'REPLACE_WITH_VALUE',
+travel_startdate: 'REPLACE_WITH_VALUE',
+travel_enddate: 'REPLACE_WITH_VALUE',
+travel_pagetype: 'REPLACE_WITH_VALUE',
+travel_totalvalue: 'REPLACE_WITH_VALUE',
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 831127800;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/831127800/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+
+</body>
+
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'}),_trfd.push({'ap':'cpbh'},{'server':'a2plvcpnl36864'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js'></script></html>
+
+
