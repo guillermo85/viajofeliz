@@ -220,7 +220,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ol>
 
   <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
+  <div class="carousel-inner hero-promo" role="listbox">
     <div class="item active">
       <img src="http://via.placeholder.com/350x150" alt="...">
       <div class="carousel-caption">
@@ -1464,21 +1464,23 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
         <script src="web/js/custom.js"></script>
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyDQv2E0-B2QkMTQ-hw4dXmcW-11ELiAe24"></script>
 
-
          <script type="text/javascript">
 
+         $('.carousel').carousel({
+          interval: 2000
+        });
 
+         $(window).scroll(function() {
 
-
-
-
-   // $(window).scroll(function ()
-    //{
-     // if($(document).height() <= $(window).scrollTop() + $(window).height())
-      //{
-      //loadmore();
-      //}
-    //});
+           if ($(this).scrollTop()>0)
+            {
+               $('.hero-promo').fadeOut();
+            }
+           else
+            {
+             $('.hero-promo').fadeIn();
+            }
+        });
 
     function loadmore()
     {
