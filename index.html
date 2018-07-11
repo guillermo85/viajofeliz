@@ -227,7 +227,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         Octubre y Noviembre Jamaicaaa
         Desde USD 1370
 
-        <button type="button" class="btn btn-default btn-lg">
+        <button type="button" class="btn btn-default btn-lg" style="text-shadow: none;border-color: #fff;background-color: transparent;color: #fff;
+margin: 35px;">
           Ver mas
         </button>
 
@@ -1467,19 +1468,20 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
          <script type="text/javascript">
 
          $('.carousel').carousel({
-          interval: 2000
+          interval: 9000
         });
 
          $(window).scroll(function() {
 
-           if ($(this).scrollTop()>0)
+           if ($(this).scrollTop()>90)
             {
-               $('.hero-promo').fadeOut();
+               $('.hero-promo').hide();
             }
-           else
+           /*else
             {
              $('.hero-promo').fadeIn();
             }
+            */
         });
 
     function loadmore()
