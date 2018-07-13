@@ -88,11 +88,7 @@ big,
   font-size: 75px;
   margin: 30px 0;
 }
-@media (max-width:992px) {
-  .page-title {
-    font-size: 50px;
-  }
-}
+
 .text-white {
   color: #fff;
 }
@@ -1180,38 +1176,12 @@ ul.slimmenu.slimmenu-collapsed li .slimmenu-sub-collapser > i {
   left: 14%;
   width: 55%;
 }
-@media (max-width:1800px) {
-  .search-tabs-abs {
-    position: relative;
-    width: 100%;
-    left: 0;
-  }
-}
+
 .search-tabs-abs-bottom {
   position: absolute;
   top: 320px;
 }
-@media (max-width:992px) {
-  .search-tabs-abs-bottom {
-    position: relative;
-    top: 0;
-    margin: 50px 0;
-  }
-}
-.search-tabs-bottom {
-  position: absolute;
-  left: 0;
-  bottom: 50px;
-  width: 100%;
-}
-@media (max-width:992px) {
-  .search-tabs-bottom {
-    position: relative;
-    bottom: auto;
-    top: 0;
-    margin-top: 50px;
-  }
-}
+
 .search-tabs-to-top {
   position: relative;
   z-index: 10;
@@ -1242,11 +1212,7 @@ ul.slimmenu.slimmenu-collapsed li .slimmenu-sub-collapser > i {
   border: none !important;
   color: #fff;
 }
-@media (max-width:992px) {
-  .search-tabs-bg > .tabbable > .nav-tabs > li > a > span {
-    display: none;
-  }
-}
+
 .search-tabs-bg > .tabbable > .nav-tabs > li > a:hover > .fa {
   background: #ed8323;
   -webkit-transition: 0.3s;
@@ -1860,14 +1826,6 @@ h5.thumb-title {
   border-radius: 0;
 }
 
-@media (min-width:992px) {
-  body.boxed .global-wrap {
-    width: 1230px;
-    margin: 30px auto;
-    -webkit-box-shadow: 0 4px 2px rgba(0,0,0,0.2);
-    box-shadow: 0 4px 2px rgba(0,0,0,0.2);
-  }
-}
 .global-wrap {
   background: #fff;
   height: 100%;
@@ -1880,11 +1838,7 @@ h5.thumb-title {
   width: 100%;
   height: 100%;
 }
-@media (max-width:992px) {
-  .full-page {
-    min-height: 1000px;
-  }
-}
+
 .rel {
   position: relative;
 }
@@ -1900,12 +1854,7 @@ h5.thumb-title {
   position: relative;
   overflow: hidden;
 }
-@media (max-width:992px) {
-  .top-area,
-  .special-area {
-    height: auto;
-  }
-}
+
 .special-area {
   height: 500px;
 }
@@ -1991,11 +1940,7 @@ h5.thumb-title {
   background-position: 50% 0;
   background-attachment: fixed;
 }
-@media (max-width:992px) {
-  .bg-holder > .bg-parallax {
-    background-position: center center;
-  }
-}
+
 .bg-holder > .bg-blur {
   width: 50% !important;
   height: 50% !important;
@@ -2039,11 +1984,7 @@ h5.thumb-title {
   position: absolute;
   z-index: 6;
 }
-@media (max-width:992px) {
-  .bg-holder > .bg-front.bg-front-mob-rel {
-    position: relative;
-  }
-}
+
 .vert-center {
   left: 0 !important;
   position: absolute !important;
@@ -2170,11 +2111,7 @@ img.pp-img {
   max-height: 120px;
   background: #f0f0f0;
 }
-@media (max-width:992px) {
-  .header-top {
-    max-height: none;
-  }
-}
+
 .logo {
   display: block;
 }
@@ -2194,12 +2131,7 @@ img.pp-img {
   right: 0;
 
 }
-@media (max-width:992px) {
-  .top-user-area .top-user-area-list {
-    margin-top: 10px;
-    position: relative;
-  }
-}
+
 .top-user-area .top-user-area-list > li {
   position: relative;
   border: none !important;
@@ -2474,11 +2406,7 @@ header#main-header {
   top: 4px;
   position: relative;
 }
-@media (max-width:992px) {
-  .main-header-search {
-    margin-top: 15px;
-  }
-}
+
 .main-header-search .form-control {
   margin-bottom: 0;
   -webkit-border-radius: 5px;
@@ -3974,20 +3902,8 @@ fieldset[disabled] .datepicker table tr td span.active.disabled:hover.active {
 .bootstrap-timepicker-widget .modal-content {
   padding: 4px;
 }
-@media (min-width: 767px) {
-  .bootstrap-timepicker-widget.modal {
-    width: 200px;
-    margin-left: -100px;
-  }
-}
-@media (max-width: 767px) {
-  .bootstrap-timepicker {
-    width: 100%;
-  }
-  .bootstrap-timepicker .dropdown-menu {
-    width: 100%;
-  }
-}
+
+
 .cc-form .form-group {
   float: left;
 }
@@ -8970,11 +8886,7 @@ fieldset[disabled] .datepicker table tr td span.active.disabled:hover.active {
 .owl-controls .owl-pagination {
   margin-top: 10px;
 }
-@media (max-width:992px) {
-  .owl-controls .owl-pagination {
-    display: none;
-  }
-}
+
 .owl-controls .owl-page,
 .owl-controls .owl-buttons div {
   cursor: pointer;
@@ -9161,11 +9073,7 @@ fieldset[disabled] .datepicker table tr td span.active.disabled:hover.active {
   border-top: 1px solid rgba(255,255,255,0.2);
   text-transform: uppercase;
 }
-@media (max-width:992px) {
-  .owl-cap-title {
-    font-size: 60px;
-  }
-}
+
 .owl-cap-price {
   margin-bottom: 15px;
 }
@@ -10975,4 +10883,282 @@ img.mfp-img {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
+}
+
+/********  MEDIA QUERIES ********/
+
+.xsPhoneWrapper{
+  padding-left: 0;
+  font-size: 12px;
+}
+/*==================================================
+=                   Media Queries                  =
+==================================================*/
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone 5,6 / width 320px+ */ 
+    @media only screen and (min-width : 320px) {
+      .header-top{
+        padding: 15px 0px;
+      }
+      .logo img{
+        width: 100%;
+        padding-top: 8px;
+      }
+      .top-user-area .top-user-area-list {
+        margin-top: 0px;
+        position: relative;
+      }
+      .top-user-area-list li a{
+        font-family: 'Roboto COndensed';
+        font-size: 12px;
+        letter-spacing: -0.5px;
+        color: #000;
+      }
+      .top-user-area-list li .iconHead{
+        margin-right: 2px;
+        vertical-align: sub;
+        font-size: 16px;
+      }
+      .top-contact-area-list{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        margin-top: 4px;
+      }
+      .top-contact-area-list li a.btn-xs{
+        padding: 4px 4px;
+        background: transparent;
+        border: 1px solid #ed8323;
+        color: #ed8323;
+        font-family: 'Roboto COndensed';
+      }
+      .search-tabs-bg > .tabbable > .nav-tabs > li > a > span {
+        display: inline-block;
+        font-size: 11px;
+        padding-left: 2px;
+      }
+      .search-tabs-bg > .tabbable > .nav-tabs > li{
+        margin-right: 0;
+        margin-bottom: 5px;
+        width: 50%;
+      }
+      .search-tabs-bg > .tabbable >.tab-content > .tab-pane{
+        padding-top: 15px;
+      }
+      h2{
+        font-size: 28px;
+      }
+      .search-tabs-bg > .tabbable >.tab-content > .tab-pane{
+        padding-left: 5px;
+        padding-right: 0;
+      }
+    }
+
+    /* Extra Small Devices, Phones width 360px+ */ 
+    @media only screen and (min-width : 360px) {
+     .logo img{
+        width: 100%;
+        padding-top: 8px;
+      }
+
+      .top-user-area .top-user-area-list {
+        margin-top: 0px;
+        position: relative;
+      }
+      .top-user-area-list li a{
+        font-family: 'Roboto COndensed';
+        font-size: 14px;
+        letter-spacing: -0.5px;
+      }
+      .top-user-area-list li .iconHead{
+        margin-right: 2px;
+        vertical-align: sub;
+        font-size: 16px;
+      }
+      .top-contact-area-list{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        margin-top: 4px;
+      }
+      .top-contact-area-list li a.btn-xs{
+        padding: 4px 5px;
+        background: transparent;
+        border: 1px solid #ed8323;
+        color: #ed8323;
+      }
+      .search-tabs-bg > .tabbable > .nav-tabs > li > a > span {
+        display: inline-block;
+        font-size: 11px;
+        padding-left: 2px;
+      }
+      .search-tabs-bg > .tabbable > .nav-tabs > li{
+        margin-right: 0;
+        margin-bottom: 5px;
+        width: 50%;
+      }
+      .search-tabs-bg > .tabbable >.tab-content > .tab-pane{
+        padding-top: 15px;
+      }
+      h2{
+        font-size: 28px;
+      }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+      .top-user-area .top-user-area-list {
+        margin-top: 10px;
+        position: relative;
+      }
+      .search-tabs-bg > .tabbable > .nav-tabs > li > a > span {
+        display: inline-block;
+        font-size: 11px;
+        padding-left: 2px;
+      }
+      .search-tabs-bg > .tabbable > .nav-tabs > li{
+        margin-right: 0;
+        margin-bottom: 5px;
+        width: auto;
+      }
+      .search-tabs-bg > .tabbable >.tab-content > .tab-pane{
+        padding-top: 15px;
+      }
+      h2{
+        font-size: 28px;
+      }
+      .logo img{
+        width: auto;
+        padding-top: 8px;
+      }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+     .logo img{
+       width: auto;
+       padding-top: 8px;
+     }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+    
+    }
+
+/*==================================================
+=                OLD Media Queries                 =
+==================================================*/
+
+@media (max-width:992px) {
+ 
+}
+
+
+@media (max-width:992px) {
+  .header-top {
+    max-height: none;
+  }
+}
+
+@media (max-width:992px) {
+  .bg-holder > .bg-parallax {
+    background-position: center center;
+  }
+}
+
+@media (max-width:992px) {
+  .bg-holder > .bg-front.bg-front-mob-rel {
+    position: relative;
+  }
+}
+
+@media (max-width:992px) {
+  
+}
+
+@media (max-width:992px) {
+  .main-header-search {
+    margin-top: 15px;
+  }
+}
+
+@media (min-width:992px) {
+  body.boxed .global-wrap {
+    width: 1230px;
+    margin: 30px auto;
+    -webkit-box-shadow: 0 4px 2px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 2px rgba(0,0,0,0.2);
+  }
+}
+
+@media (max-width:992px) {
+  .page-title {
+    font-size: 50px;
+  }
+}
+@media (max-width:1800px) {
+  .search-tabs-abs {
+    position: relative;
+    width: 100%;
+    left: 0;
+  }
+}
+@media (max-width:992px) {
+  .search-tabs-abs-bottom {
+    position: relative;
+    top: 0;
+    margin: 50px 0;
+  }
+}
+.search-tabs-bottom {
+  position: absolute;
+  left: 0;
+  bottom: 50px;
+  width: 100%;
+}
+@media (max-width:992px) {
+  .search-tabs-bottom {
+    position: relative;
+    bottom: auto;
+    top: 0;
+    margin-top: 50px;
+  }
+}
+@media (max-width:992px) {
+  .full-page {
+    min-height: 1000px;
+  }
+}
+@media (max-width:992px) {
+  .top-area,
+  .special-area {
+    height: auto;
+  }
+}
+@media (max-width: 767px) {
+  .bootstrap-timepicker {
+    width: 100%;
+  }
+  .bootstrap-timepicker .dropdown-menu {
+    width: 100%;
+  }
+}
+@media (min-width: 767px) {
+  .bootstrap-timepicker-widget.modal {
+    width: 200px;
+    margin-left: -100px;
+  }
+}
+@media (max-width:992px) {
+  .owl-controls .owl-pagination {
+    display: none;
+  }
+}
+@media (max-width:992px) {
+  .owl-cap-title {
+    font-size: 60px;
+  }
 }
