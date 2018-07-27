@@ -58,6 +58,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"
         ></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-touch-events/2.0.0/jquery.mobile-events.min.js"></script>
 
         <!-- Facebook Pixel Code -->
 <script>
@@ -96,8 +97,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K54TJ2L" heigth="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-    
-    
+
+
 
     <!-- Empieza Carousel de Ofertas -->
 
@@ -157,12 +158,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
            <!-- <ion-icon name="ios-arrow-forward" style="font-size: 2.5em; color: #fff;"></ion-icon>-->
            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="42" viewBox="0 0 50 80"><path fill="none" stroke="#FFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M.375.375L45.63 38.087.375 75.8"/></svg>
            <span class="sr-only">Siguiente</span>
-         </a> 
+         </a>
       </div>
-      
+
     </div>
     <!-- Termina Carousel de ofertas-->
-    
+
     <div class="global-wrap" id="global-wrap">
         <header id="main-header">
             <div class="header-top">
@@ -1505,6 +1506,15 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
                      }
                      */
                  });
+
+                 $(document).ready(function() {
+                   $('.carousel').swiperight(function() {
+                      $(this).carousel('prev');
+                    });
+                   $('.carousel').swipeleft(function() {
+                      $(this).carousel('next');
+                   });
+                });
 
     function loadmore()
     {
