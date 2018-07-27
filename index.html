@@ -6,15 +6,6 @@
 <meta name="google-site-verification" content="YNbxH95ClsWm35L02JX9HV94VM8sANS4pu8grGT15R0" />
 <meta name="google-site-verification" content="SfSH085KIf1q8I3epmWJudkv3jUDWMFgZcyv3B4-0AA" />
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-K54TJ2L');</script>
-<!-- End Google Tag Manager -->
-
-
 <meta name="viewport" content="width=device-width, initial-scale=1.00"/>
 <script type="text/javascript">
     window.onload=function(){
@@ -28,12 +19,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     };
 </script>
 
-
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta name="keywords" content="viajar, destinos, viajar barato, viajofeliz, viajo feliz, europa, estados unidos, centroamerica, viajes, alquiler de auto" />
     <meta name="description" content="Viajofeliz.com - Tu lugar para unas vacaciones insuperables · 2902 8456 · 095 103 807">
-
-
 
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
@@ -44,21 +32,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <link rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
-
-
   <script src="https://use.fontawesome.com/73a8ace48c.js"></script>
 
-
     <link rel="stylesheet" href="web/css/icomoon.css">
-
     <link rel="stylesheet" href="web/css/styles.css">
-
     <link rel="stylesheet" href="web/css/mystyles.css">
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"
-        ></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-touch-events/2.0.0/jquery.mobile-events.min.js"></script>
 
         <!-- Facebook Pixel Code -->
 <script>
@@ -1464,8 +1442,10 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
             </div>
         </footer>
 
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type="text/javascript" src="web/js/bcSwipe-master/jquery.bcSwipe.min.js"></script>
 
-        <script src="web/js/jquery.js"></script>
+      <!--  <script src="web/js/jquery.js"></script> -->
         <script src="web/js/bootstrap.js"></script>
         <script src="web/js/slimmenu.js"></script>
         <script src="web/js/bootstrap-datepicker.js"></script>
@@ -1488,6 +1468,13 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
 
         <script src="https://unpkg.com/ionicons@4.2.4/dist/ionicons.js"></script>
 
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K54TJ2L');</script>
+        <!-- End Google Tag Manager -->
 
          <script type="text/javascript">
                  $('.carousel').carousel({
@@ -1499,6 +1486,9 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
                     if ($(this).scrollTop()>200)
                      {
                         $('.hero-promo').hide();
+                        $(document).ready(function(){
+                           $(window).scrollTop(0);
+                        });
                      }
                     /*else
                      {
@@ -1507,6 +1497,8 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
                      */
                  });
 
+                 $('.carousel').bcSwipe({ threshold: 50 });
+                 /*
                  $(document).ready(function() {
                    $('.carousel').swiperight(function() {
                       $(this).carousel('prev');
@@ -1515,6 +1507,7 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
                       $(this).carousel('next');
                    });
                 });
+                */
 
     function loadmore()
     {
@@ -1531,19 +1524,9 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
 
       // We increase the value by 10 because we limit the results by 10
       document.getElementById("row_no").value = Number(val)+10;
-
-
-
-
       }
-
-
       });
-
-
     }
-
-
 </script>
 
     </div>
@@ -1558,9 +1541,6 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
         })(document,'script');
         </script>
         <!--End of Zopim Live Chat Script-->
-
-
-
 <!-- Google Code para etiquetas de remarketing -->
 
 <script type="text/javascript">
@@ -1582,14 +1562,12 @@ var google_remarketing_only = true;
 </script>
 <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
 </script>
+
 <noscript>
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/831127800/?guid=ON&amp;script=0"/>
 </div>
 </noscript>
-
-
-
 
 </body>
 
