@@ -1480,14 +1480,15 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
                  $('.carousel').carousel({
                    interval: 9000
                  });
-
+                 var exec = false;
                   $(window).scroll(function() {
-
-                    if ($(this).scrollTop()>200)
+                    if ($(this).scrollTop()>200 && exec === false)
                      {
-                        $('.hero-promo').hide();
-                        $(document).ready(function(){
-                           $(window).scrollTop(0);
+                        $('.hero-promo').hide(function (){
+                          $(document).ready(function(){
+                             $(window).scrollTop(0);
+                             exec = true;
+                          });
                         });
                      }
                     /*else
@@ -1496,18 +1497,7 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
                      }
                      */
                  });
-
                  $('.carousel').bcSwipe({ threshold: 50 });
-                 /*
-                 $(document).ready(function() {
-                   $('.carousel').swiperight(function() {
-                      $(this).carousel('prev');
-                    });
-                   $('.carousel').swipeleft(function() {
-                      $(this).carousel('next');
-                   });
-                });
-                */
 
     function loadmore()
     {
