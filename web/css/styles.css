@@ -10886,17 +10886,91 @@ img.mfp-img {
 }
 
 /********  Carousel Mobile Styles ********/
+#carousel-ofertas{
+  height: 100vh;
+}
 #carousel-ofertas .carousel-inner .oferta{
   background-size: cover!important;
   background-position: center;
   background-repeat: no-repeat;
   overflow: hidden;
 }
+#carousel-ofertas .carousel-head{
+  position: absolute;
+  top: 30px;
+  left: 15%;
+  right: 15%;
+  width: 70%;
+}
+#carousel-ofertas .carousel-head .logo-top-wrapper img{
+  width: auto;
+}
+#carousel-ofertas .carousel-inner{
+  height: 100vh;
+}
+
+#carousel-ofertas .carousel-inner .oferta{
+  height: 100%;
+}
+#carousel-ofertas .carousel-inner .oferta .carousel-caption{
+  top: 22%;
+}
+#carousel-ofertas .carousel-inner .oferta .carousel-caption .caption-inner{
+  padding: 8px 0 8px 0;
+  border-top:1px solid #fff;
+  border-bottom:1px solid #fff;
+}
+#carousel-ofertas .carousel-inner .oferta .carousel-caption .caption-inner h1{
+  color: #fff;
+  line-height: 52px;
+  font-size: 48px;
+}
+#carousel-ofertas .carousel-inner .oferta .carousel-caption .caption-price{
+  color: #fff;
+  margin-top: 8px;
+}
+#carousel-ofertas .carousel-inner .oferta .carousel-caption .caption-price h3{
+  color: #fff;
+  margin-top: 8px;
+}
+
+#carousel-ofertas .carousel-inner .oferta .carousel-caption button{
+  width: 100%;
+  background: transparent;
+  border:1px solid #fff;
+  color:#fff;
+  margin-top: 8px;
+}
+#carousel-ofertas .control-zone{
+  position:absolute;
+  bottom: 0;
+  height: 12vh;
+  width: 100%;
+  padding-top:18px;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+/* Oferta 1 */
 #carousel-ofertas .carousel-inner ._1{
   background: url("../img/ofertas/riviera.jpg");
   z-index: -1;
-
 }
+/* Oferta 2 */
+#carousel-ofertas .carousel-inner ._2{
+  background: url("../img/ofertas/cancun.jpg");
+  z-index: -1;
+}
+/* Oferta 3 */
+#carousel-ofertas .carousel-inner ._3{
+  background: url("../img/ofertas/ejemplo.jpg");
+  z-index: -1;
+}
+/* Oferta 4 */
+#carousel-ofertas .carousel-inner ._4{
+  background: url("../img/ofertas/ejemplo.jpg");
+  z-index: -1;
+}
+
 .carousel-caption{
   z-index: 2;
 }
