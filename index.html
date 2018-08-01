@@ -1440,6 +1440,9 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
 
                 </div>
             </div>
+
+                    <button id="ofertas"class="ofertas">Ofertas</button>
+
         </footer>
 
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -1498,6 +1501,15 @@ Lun a Vie 10:00 a 18:30 / Sábados 9:30 a 12:30 hs</p>
                      */
                  });
                  $('.carousel').bcSwipe({ threshold: 50 });
+
+    $("#ofertas").click(function(){
+        $('.hero-promo').show(function (){
+          $(document).ready(function(){
+             $(window).scrollTop(0);
+             exec = false;
+          });
+        });
+    });
 
     function loadmore()
     {
