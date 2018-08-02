@@ -10984,6 +10984,13 @@ img.mfp-img {
   bottom: 0;
   z-index: 1;
 }
+/*** BUTTON OFERTAS  ***/
+button#ofertas{
+  position: fixed;
+  bottom:0px;
+  left:10px;
+  
+}
 /********  MEDIA QUERIES ********/
 
 .xsPhoneWrapper{
